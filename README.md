@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&text=Welcome%20to%20my%20Github!&fontSize=30&animation=blink&color=FFF5DD&height=100&fontColor=F2932D" alt="header">
+  
+ ![제목을-입력해주세요_ (3)](https://github.com/user-attachments/assets/92dd43c8-e899-4f72-9adc-dc1632f38993)
+
+
+
+
+
+
   <h2>👻 Yun Seon Park(박윤선) 👻</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&pause=1000&color=5A5A5A&width=450&lines=Hi!+%F0%9F%96%90%EF%B8%8F+I'm+Yunseon+Park%2C+a+front-end+developer." alt="Typing SVG" /></a>
 <br>
