@@ -9,7 +9,7 @@
 
 
 
-  <h2>👻 Yun Seon Park(박윤선) 👻</h2>
+  <h1>👻 Yun Seon Park(박윤선) 👻</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&pause=1000&color=5A5A5A&width=450&lines=Hi!+%F0%9F%96%90%EF%B8%8F+I'm+Yunseon+Park%2C+a+front-end+developer." alt="Typing SVG" /></a>
 <br>
 <img src="https://github.com/user-attachments/assets/7c850b8e-0431-4b0f-a2f5-b4c2abd1a0f9" width="300px"/>
@@ -19,7 +19,7 @@
 <br>
 
 
-  <h3>🛠️Stack🛠️</h3>
+  <h2>Stack🛠️</h2>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -38,12 +38,12 @@
 
   <br>
 <br>
-  <h3>💛Github Status💛</h3>
+  <h2>Github Status🚀</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=YSP97&hide=contribs,prs&show_icons=true&bg_color=FFEEC1&title_color=F2A65C&icon_color=F2A65C&text_color=787878" alt="GitHub Stats">
   </p>
 
-  <h3>Contact</h3>
+  <h2>Contact☎️</h2>
   <a href="mailto:pus9717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://opaque-parade-b25.notion.site/c7e2c7c4929442b986ef2e1e3d668b8e?pvs=74"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
