@@ -38,7 +38,7 @@
 
   <br>
 <br>
-  <h2>Github Status🚀</h2>
+  <h2>Github Stats🚀</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=YSP97&hide=contribs,prs&show_icons=true&bg_color=FFEEC1&title_color=F2A65C&icon_color=F2A65C&text_color=787878" alt="GitHub Stats">
   </p>
